@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.buildship.ui.wizard.project.creation">
+		<item value="C:\Users\juan.beltran\workspace\proyecto1" key="project_location"/>
+		<item value="C:\Gradle\gradle-4.2" key="gradle_distribution_configuration"/>
+		<item value="LOCAL_INSTALLATION" key="gradle_distribution_type"/>
+		<item value="true" key="use_default_location"/>
+	</section>
+</section>
